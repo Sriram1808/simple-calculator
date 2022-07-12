@@ -1,3 +1,3 @@
-* [calcuator-link](sriramcal.ccbp.tech)
+* [calcuator-link](https://sriramcal.ccbp.tech/)
 
 # simple-calculator
